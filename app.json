@@ -6,20 +6,20 @@
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
     "ENV": {
-      "description": "Set it to anything to enable configuration by environment variables.",
+      "description":"Set it to anything to enable configuration by environment variables.",
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
-      "value": "1475807849:AAGxqsYSDl2Gv-tSbhaKca28QUqifAzDCrA"
+      "description":"Get it from @BotFather"
+      "value":"1475807849:AAGxqsYSDl2Gv-tSbhaKca28QUqifAzDCrA"
     },
     "APP_ID": {
       "value":"2466738"
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description":"Your API_ID, Get it from https://my.telegram.org/apps"
     },
     "API_HASH": {
        "value":"dbe280a8b289ecc1755a2d400917fa42" 
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description":"Your API_HASH, Get it from https://my.telegram.org/apps"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
@@ -27,10 +27,10 @@
     },
     "SUPPORT_CHAT_LINK": {
        "value":"https://t.me/joinchat/Ml-_TFgNojmG-p-4uqbKjA" 
-      "description": "Support Chat link in valid url format."
+      "description":"Support Chat link in valid url format."
     },
     "DOWNLOAD_DIRECTORY": {
-      "description": "Custom path for downloads. Must end with a forward slash.",
+      "description":"Custom path for downloads. Must end with a forward slash.",
       "value": "./downloads/"
     }
   },
